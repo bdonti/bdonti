@@ -5,4 +5,4 @@
 ## :chart_with_upwards_trend: Current Stats
 
 <br/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bdonti&theme=dracula" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bdonti" alt="GitHub Streak" /></a>
