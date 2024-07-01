@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-<img src="/images/banner.jpg" />
+<img src="/images/banner.png" />
