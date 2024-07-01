@@ -22,7 +22,7 @@ I'm Rahid from Bangladesh, and I create web applications with best possible bug 
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="30" height="30">
 </a>
 
-## 👨‍💻 Skills:
+## 👨‍💻 Skills
 
 <br/>
 
@@ -31,3 +31,26 @@ I'm Rahid from Bangladesh, and I create web applications with best possible bug 
 ✅ Javascript <br>
 ✅ ReactJS <br>
 ✅ MongoDB <br>
+
+## 👑 My Recent Projects
+
+# WorkFlow Hub
+
+<a href="https://hr-workflow-hub.web.app/">Live Site Link</a>
+<a href="https://github.com/bdonti/workflow-hub-client/">GitHub Client Side Link</a>
+<a href="https://github.com/bdonti/workflow-hub-server">GitHub Server Side Link</a>
+
+Project Overview
+
+- WorkFlow Hub is a comprehensive web application designed to streamline employee and HR operations within an organization. It offers distinct interfaces and functionalities for different user roles—Admin, HR, and Employee—ensuring a tailored and efficient user experience.
+
+Major Features
+
+- There is a dashboard for each users and there will be different view for admin, employee and hr by conditional rendering.
+- In the employee dashboard they can post their task with specific date and time. It will be updated in real time in the table besides. Also, each employee can see their monthly payments in earlier months.
+- In HR dashboard, they verify the status of registered employees so they can operate at will. HR can pay employees and they can also view each employees monthly payments in salary vs months chart in details section.
+- In Admin dashboard they can fire any employee which makes the worker unable to log in the website.
+
+Technologies Used
+
+- React JS, React Hook Form, Tailwind (with flowbite), Font Awesome, Lottie Animation, MongoDB, NodeJS
