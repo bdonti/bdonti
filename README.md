@@ -2,6 +2,11 @@
 
 <img src="/images/banner.png" />
 
+# About me
+
+<br/>
+I'm Rahid from Bangladesh, and I create web applications with best possible bug free websites. I really enjoy creating website with fast paced frameworks like React. I really like to add complex features in my website which is unique. I value myself with what I do and keep up to date with any recent changes in any technologies.
+
 ## :chart_with_upwards_trend: Current Stats
 
 <br/>
